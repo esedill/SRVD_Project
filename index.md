@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[SRVD APP](SRVS_Project.html)
+[SRVD APP](SRVD_Project.html)
 
 You can use the [editor on GitHub](https://github.com/esedill/SRVD_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
