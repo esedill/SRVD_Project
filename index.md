@@ -2,6 +2,44 @@
 
 [SRVD APP](SRVD.html)
 
+[log-In](Log-In.html)
+
+[Log-Out](Log-Out.html)
+
+[Register](Register.html)
+
+[Reservations](Reservations.html)
+
+[Post Cost](PostCost.html)
+
+[Inform User](Inform.html)
+
+[Location](Location.html)
+
+[Post Pics](PostPics.html)
+
+[Order Items From Post](OrderItemsFromPost.html)
+
+[Recive Item](ReciveItem.html)
+
+[Order Food](OrderFood.html)
+
+[Pay](Pay.html)
+
+[PayCredit](PayCredit.html)
+
+[PayDebit](PayDebit.html)
+
+[Rate Experence](RateExperence.html)
+
+[Contact](Contact.html)
+
+[Specials](Specails.html)
+
+[Follow Other Users](FollowOtherUsers.html)
+
+[Wait Time](WaitTime.html)
+
 You can use the [editor on GitHub](https://github.com/esedill/SRVD_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
