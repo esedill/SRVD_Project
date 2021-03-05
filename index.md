@@ -34,7 +34,7 @@
 
 [Contact](Contact.html)
 
-[Specials](Specails.html)
+[Specials](Specials.html)
 
 [Follow Other Users](FollowOtherUsers.html)
 
