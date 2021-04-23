@@ -12,7 +12,6 @@
 
 [Post Cost](PostCost.html)
 
-
 [Location](Location.html)
 
 [Post Pics](PostPics.html)
@@ -24,7 +23,6 @@
 [Order Food](OrderFood.html)
 
 [Pay](Pay.html)
-
 
 [Rate Experence](RateExperence.html)
 
