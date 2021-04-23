@@ -26,9 +26,6 @@
 
 [Pay](Pay.html)
 
-[PayCredit](PayCredit.html)
-
-[PayDebit](PayDebit.html)
 
 [Rate Experence](RateExperence.html)
 
