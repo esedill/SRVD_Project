@@ -12,7 +12,6 @@
 
 [Post Cost](PostCost.html)
 
-[Inform User](Inform.html)
 
 [Location](Location.html)
 
