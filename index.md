@@ -18,7 +18,6 @@
 
 [Order Items From Post](OrderItemsFromPost.html)
 
-[Order Food](OrderFood.html)
 
 [Pay](Pay.html)
 
